@@ -1,0 +1,8 @@
+setup.py
+GIT_HUB.egg-info/PKG-INFO
+GIT_HUB.egg-info/SOURCES.txt
+GIT_HUB.egg-info/dependency_links.txt
+GIT_HUB.egg-info/top_level.txt
+github/__init__.py
+github/guess_number.py
+github/weight_conversion.py
